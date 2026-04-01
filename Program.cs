@@ -1,12 +1,14 @@
-﻿using System.Globalization;
+﻿using System.Runtime.Serialization;
+using Point = (double X, double Y);
 
-namespace MyApp.Services;
+namespace MyApp.Geometry;
 
-class Greeter
+class Shape
 {
-    public string Greet(string name)
-    {
-        var culture = CultureInfo.CurrentCulture;
-        return $"Hello, {name}! Culture: {culture.Name}";
-    }
+	public static double Distance(Point p1, Point p2)
+	{
+		var dx = p2.X - p1.X;
+		var dy = p2.Y - p1.Y;
+		return Math.Sqrt(dx * dx + dy * dy);
+	}
 }

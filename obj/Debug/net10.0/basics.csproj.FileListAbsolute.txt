@@ -12,3 +12,4 @@
 /home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/basics.pdb
 /home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/basics.genruntimeconfig.cache
 /home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/ref/basics.dll
+/home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/basics.sourcelink.json
