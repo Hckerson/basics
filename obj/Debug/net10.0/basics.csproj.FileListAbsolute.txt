@@ -1,0 +1,14 @@
+/home/hckerson/Downloads/personal/learn/c#/basics/bin/Debug/net10.0/basics
+/home/hckerson/Downloads/personal/learn/c#/basics/bin/Debug/net10.0/basics.deps.json
+/home/hckerson/Downloads/personal/learn/c#/basics/bin/Debug/net10.0/basics.runtimeconfig.json
+/home/hckerson/Downloads/personal/learn/c#/basics/bin/Debug/net10.0/basics.dll
+/home/hckerson/Downloads/personal/learn/c#/basics/bin/Debug/net10.0/basics.pdb
+/home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/basics.AssemblyInfoInputs.cache
+/home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/basics.AssemblyInfo.cs
+/home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/basics.csproj.CoreCompileInputs.cache
+/home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/basics.dll
+/home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/refint/basics.dll
+/home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/basics.pdb
+/home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/basics.genruntimeconfig.cache
+/home/hckerson/Downloads/personal/learn/c#/basics/obj/Debug/net10.0/ref/basics.dll
