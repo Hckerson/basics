@@ -1,19 +1,27 @@
 ﻿
-namespace MyApp.Payments;
-
-public interface IpaymentProcessor
+class Program
 {
-	bool ProcessPayment(decimal amount);
-}
-
-public class CreditCardProcessor : IpaymentProcessor
-{
-	public bool ProcessPayment(decimal amount)
+	static void Main()
 	{
-		Console.WriteLine("Processing credit card payment of $" + amount);
-		return true;
+		int[] arr = [0, 1, 2, 3, 4,];
+		List<int> list = new List<int>();
+
+		for (int x = 5; x <= 10; x++)
+		{
+			list.Add(x);
+		}
+		ProcessItems<int>(arr);
+		ProcessItems<int>(list);
 	}
 
-}
+	static void ProcessItems<T>(IList<T> items)
+	{
+		Console.WriteLine($"Isreadonly returns 0 for this collection , {items.IsReadOnly}");
 
-public record PaymentResult(bool Success, string? TransactionId);
+		foreach (T item in items)
+		{
+			Console.WriteLine(item?.ToString());
+		}
+
+	}
+}
